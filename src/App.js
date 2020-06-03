@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          As Salam Walaikum
+          As Salam Walaikum to All
         </a>
       </header>
     </div>
