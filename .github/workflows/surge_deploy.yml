@@ -34,7 +34,7 @@ jobs:
       - name: Installing libraries
         run: npm i
       - name: Creating Build
-        run: npm build
+        run: npm run build
       # Runs a set of commands using the runners shell
       - name: Installing Surge
         run: npm i -g surge
